@@ -1,4 +1,4 @@
-package com.colak.springactuatortutorial.actuator;
+package com.colak.springtutorial.actuator;
 
 import org.springframework.boot.actuate.endpoint.annotation.DeleteOperation;
 import org.springframework.boot.actuate.endpoint.annotation.ReadOperation;

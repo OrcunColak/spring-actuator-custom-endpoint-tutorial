@@ -1,4 +1,4 @@
-package com.colak.springactuatortutorial;
+package com.colak.springtutorial;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

@@ -1,13 +1,13 @@
-package com.colak.springactuatortutorial;
+package com.colak.springtutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringActuatorTutorialApplication {
+public class SpringTutorialApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringActuatorTutorialApplication.class, args);
+		SpringApplication.run(SpringTutorialApplication.class, args);
 	}
 
 }
